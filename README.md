@@ -7,15 +7,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academic 3.3.0">
   <meta name="generator" content="Hugo 0.53" />
-  <meta name="author" content="Joep Lustenhouwer">
+  <meta name="author" content="HUANG Yan">
 
   
   
   
   
-    
-  
-  <meta name="description" content="Assistant Professor">
 
   
   <link rel="alternate" hreflang="en-us" href="/">
@@ -29,16 +26,7 @@
 
   
 
-  
 
-  
-
-  
-
-  
-  
-  
-  <meta name="theme-color" content="#3f51b5">
   
 
   
@@ -84,8 +72,8 @@
   
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Joep Lustenhouwer">
-  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Joep Lustenhouwer">
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="HUANG Yan">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="HUANG Yan">
   
 
   <link rel="manifest" href="/site.webmanifest">
@@ -115,7 +103,7 @@
 
   
 
-  <title>Joep Lustenhouwer</title>
+  <title>HUANG Yan</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
@@ -327,8 +315,8 @@
 
         
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
-          <a href="https://www.uni-heidelberg.de/fakultaeten/wiso/awi/professuren/wipol/mitarbeiter.html" target="_blank" itemprop="url" rel="noopener">
-          <span itemprop="name"> University of Heidelberg</span>
+          <a href="https://bsu.by/en//fakultaeten/wiso/awi/professuren/wipol/mitarbeiter.html" target="_blank" itemprop="url" rel="noopener">
+          <span itemprop="name"> Belarusian State University</span>
           </a>
         </h3>
         
@@ -395,9 +383,9 @@
 
 <h1 id="about-me">About me</h1>
 
-<p>I am acting professor (Lehrstuhlvertretung) in applied macroeconomics at the University of Rostock for one semester. For this, I am on leave as an assistant professor (Jun.Prof.) in Macroeconomics at Heidelberg University.</p>
+<p>I am being a Master's student in World Economics at the Belarusian State University. I want to seek the truth, discover patterns, and investigate knowledge that humans do not yet possess. This requires not only research ability, but also academic passion and commitment. I believe that the process of thinking and exploring in order to discover new knowledge is inherently enjoyable.</p>
 
-<p>My research focuses on expectation formation and its implications for macroeconomics. I use complementary methodologies by empirically analyzing survey expectations, conducting controlled laboratory experiments, and incorporating bounded rationality into macroeconomic modelling. I believe that important new insights can be obtained by considering models that deviate from the fully rational representative agent that  optimizes over an infinite planning horizon. I am especially interested in studying issues and models that concern monetary and fiscal policy. My aim is to use a bounded rationality approach obtain findings that are relevant for policy makers.</p>
+<p>My research focuses on decision-making mechanism and its implications for macroeconomics. I use complementary methodologies by empirically analyzing survey expectations, conducting controlled laboratory experiments, and incorporating bounded rationality into macroeconomic modelling. I believe that important new insights can be obtained by considering models that deviate from the fully rational representative agent that  optimizes over an infinite planning horizon. I am especially interested in studying issues and models that concern monetary and fiscal policy. My research has a clear purpose: to make an impact, thereby contributing to the progress of society as a whole.</p>
 
 
     <div class="row">
