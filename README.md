@@ -17,7 +17,7 @@
     <link rel="shortcut icon" href="imgs/myIcon.jpg" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="keywords"
-        content="Renjie Liao, Renjie, CS, Machine Learning, Computer Vision, UBC, University of British Columbia, UofT, University of Toronto" />
+        content="HHYYY, Renjie, CS, Machine Learning, Computer Vision, UBC, University of British Columbia, UofT, University of Toronto" />
     <meta name="description" content="Renjie Liao's home page" />
     <link rel="stylesheet" href="css/jemdoc.css" type="text/css" />
 
