@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en-us">
 <head>
@@ -13,6 +14,9 @@
   
   
   
+    
+  
+  <meta name="description" content="Master's Student">
 
   
   <link rel="alternate" hreflang="en-us" href="/">
@@ -26,7 +30,16 @@
 
   
 
+  
 
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#3f51b5">
   
 
   
@@ -90,10 +103,10 @@
   
   <meta property="twitter:card" content="summary_large_image">
   
-  <meta property="og:site_name" content="Joep Lustenhouwer">
+  <meta property="og:site_name" content="HUANG Yan">
   <meta property="og:url" content="/">
-  <meta property="og:title" content="Joep Lustenhouwer">
-  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="/img/Foto_Joep.png">
+  <meta property="og:title" content="HUANG Yan">
+  <meta property="og:description" content="Master's Student"><meta property="og:image" content="/img/Foto_Joep.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="og:updated_time" content="2017-10-15T00:00:00&#43;00:00">
@@ -143,7 +156,7 @@
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">Joep Lustenhouwer</a>
+      <a class="navbar-brand" href="/">HUANG Yan</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -307,15 +320,15 @@
       
 
       <div class="portrait-title">
-        <h2 itemprop="name">Joep Lustenhouwer</h2>
-        <h3 itemprop="jobTitle">Assistant Professor</h3>
+        <h2 itemprop="name">HUANG Yan</h2>
+        <h3 itemprop="jobTitle">Master's student</h3>
 
         
         
 
         
         <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
-          <a href="https://bsu.by/en//fakultaeten/wiso/awi/professuren/wipol/mitarbeiter.html" target="_blank" itemprop="url" rel="noopener">
+          <a href="https://bsu.by/en" target="_blank" itemprop="url" rel="noopener">
           <span itemprop="name"> Belarusian State University</span>
           </a>
         </h3>
@@ -385,7 +398,7 @@
 
 <p>I am being a Master's student in World Economics at the Belarusian State University. I want to seek the truth, discover patterns, and investigate knowledge that humans do not yet possess. This requires not only research ability, but also academic passion and commitment. I believe that the process of thinking and exploring in order to discover new knowledge is inherently enjoyable.</p>
 
-<p>My research focuses on decision-making mechanism and its implications for macroeconomics. I use complementary methodologies by empirically analyzing survey expectations, conducting controlled laboratory experiments, and incorporating bounded rationality into macroeconomic modelling. I believe that important new insights can be obtained by considering models that deviate from the fully rational representative agent that  optimizes over an infinite planning horizon. I am especially interested in studying issues and models that concern monetary and fiscal policy. My research has a clear purpose: to make an impact, thereby contributing to the progress of society as a whole.</p>
+<p>My research focuses on decision-making mechanism and its implications for macroeconomics. I use complementary methodologies by empirically analyzing survey expectations, conducting controlled laboratory experiments, and incorporating bounded rationality into macroeconomic modelling. I believe that important new insights can be obtained by considering models that deviate from the fully rational representative agent that optimizes over an infinite planning horizon. I am especially interested in studying issues and models that concern monetary and fiscal policy. My research has a clear purpose: to make an impact, thereby contributing to the progress of society as a whole.</p>
 
 
     <div class="row">
@@ -397,15 +410,15 @@
           
           <li>Macroeconomics</li>
           
-          <li>Expectation formation</li>
+          <li>Decision-making mechanism</li>
           
-          <li>Bounded rationality</li>
+          <li>Behavioral Economics</li>
           
-          <li>Monetary policy</li>
+          <li>Monetary Policy</li>
           
-          <li>Fiscal policy</li>
+          <li>Fiscal Policy</li>
           
-          <li>Experimental macroeconomics</li>
+          <li>Experimental Macroeconomics</li>
           
         </ul>
       </div>
@@ -1763,6 +1776,5 @@
 
   </body>
 </html>
-
 
 
